@@ -1,9 +1,35 @@
-# direct-cast-6709
+# grouchy-diiner-9447
+Visit:- https://tiny-rugelach-e3e0ee.netlify.app/
 
-# TECH STACKS :
-  REACT | REACT-REDUX | REACT-ROUTER-DOM | CHAKRA-UI
-  
-# WEBSITE LOOKS LIKE :
+```python
+  Team members
+  1. Prabhat
+  2. Amar
+  3. Sahnaaj
+  4. Shubham
+  5. Sumit 
+```
+
+
+<br/>
+<p>
+
+```ruby
+  Prabhat
+```
+
+</p>
+> Admin Panel <br/>
+> Login Page <br/>
+> Signup Page<br/>
+
+
+Every page is responsive<br/>
+
+<img src ="https://www.ayoa.com/wp-content/uploads/2020/07/ayoa_procomputer2.png" alt="ayoa"/>
+
+###Project Looks Like 
+
 
 # LANDING PAGE
 ![image](https://user-images.githubusercontent.com/105987614/208336161-9f2cefda-5dd1-4211-a393-141d41c8dceb.png)
