@@ -1,5 +1,5 @@
-# grouchy-diiner-9447
-Visit:- https://tiny-rugelach-e3e0ee.netlify.app/
+# Myntra.Com Clone
+Visit:- [https://tiny-rugelach-e3e0ee.netlify.app/](https://myntra-clone-seven.vercel.app/)
 
 ```python
   Team members
@@ -26,7 +26,6 @@ Visit:- https://tiny-rugelach-e3e0ee.netlify.app/
 
 Every page is responsive<br/>
 
-<img src ="https://www.ayoa.com/wp-content/uploads/2020/07/ayoa_procomputer2.png" alt="ayoa"/>
 
 ###Project Looks Like 
 
